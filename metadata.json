@@ -1,0 +1,6 @@
+{
+  "name": "Ares IX: Alien Frontline",
+  "description": "First-person tactical strategy war game set on a desolate alien planet where Spartan, Roman, and Greek legions clash for energy obelisks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
